@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.tyschool.springbootfirst.config.WebAutoConfiguration
+company=tyschooll
